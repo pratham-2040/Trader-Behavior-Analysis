@@ -27,4 +27,9 @@ Analyze trader behavior under different market sentiment regimes and propose act
 - Two actionable risk management strategies proposed
 - Predictive model : Logistic Regression
 
+## Power BI Dashboard
+
+![Power BI Dashboard](powerbi_dashboard.png)
+
+
 
